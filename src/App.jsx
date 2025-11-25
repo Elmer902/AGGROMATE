@@ -9,7 +9,7 @@ import About from './Pages/customer/About.jsx';
 import Contact from './Pages/customer/contact.jsx';
 import Dashboard from './Pages/seller/Dashboard.jsx';
 import DeliveryDashboard from './Pages/Delivery/DDashboard.jsx'
-import ProductDetails from "./pages/customer/ProductDetails";
+import ProductDetails from "./Pages/customer/ProductDetails";
 import AuthLayout from "./Layout/AuthLayout.jsx"
 
 const App = () => {
