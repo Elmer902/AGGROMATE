@@ -1,7 +1,7 @@
 import bg1 from "../src/assets/Bg1.png";
 import A1 from '../src/assets/A1.png'
 import Vector from '../src/assets/Vector 143.png'
-import farmer from '../src/assets/farmer.png'
+import farmer from '../src/assets/Farmer.png'
 import Delivery from '../src/assets/Delivery.png'
 import Customer from '../src/assets/Customer.png'
 import email from '../src/assets/email.png'
